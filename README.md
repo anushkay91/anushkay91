@@ -18,6 +18,6 @@
 ![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkay91&show_icons=true&theme=dark)
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin](https://www.linkedin.com/in/aanushkay91/))
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([your-medium](https://medium.com/@aanushkay91))
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([your-youtube](https://www.youtube.com/@AanushkaY91))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/aanushkay91/)])
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([(https://medium.com/@aanushkay91)])
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([(https://www.youtube.com/@AanushkaY91)])
